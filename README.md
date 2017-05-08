@@ -9,7 +9,7 @@ over time. Some tests may be incomplete. The code is
 not meant to be a reflection of a production quality
 work, but rather as a set of reference projects for
 the book.
-
+领域模型，更好的包结构
 Points of Interest
 ==================
 
